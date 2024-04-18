@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5433A0D-B6B0-F882-4C15-E09E0D88BEE1}|Assembly-CSharp.csproj|C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\assets\\scripts\\scripts\\aispawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5433A0D-B6B0-F882-4C15-E09E0D88BEE1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts\\aispawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5433A0D-B6B0-F882-4C15-E09E0D88BEE1}|Assembly-CSharp.csproj|c:\\users\\anthony\\documents\\unitygames\\games\\3daudio\\assets\\scripts\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5433A0D-B6B0-F882-4C15-E09E0D88BEE1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5433A0D-B6B0-F882-4C15-E09E0D88BEE1}|Assembly-CSharp.csproj|C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\assets\\scripts\\scripts\\ainavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5433A0D-B6B0-F882-4C15-E09E0D88BEE1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts\\ainavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC327359-1E73-FA48-9FB8-C4B419549841}|Assembly-CSharp-firstpass.csproj|C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\assets\\standard assets\\characters\\firstpersoncharacter\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC327359-1E73-FA48-9FB8-C4B419549841}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\characters\\firstpersoncharacter\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5433A0D-B6B0-F882-4C15-E09E0D88BEE1}|Assembly-CSharp.csproj|C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\assets\\scripts\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5433A0D-B6B0-F882-4C15-E09E0D88BEE1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5433A0D-B6B0-F882-4C15-E09E0D88BEE1}|Assembly-CSharp.csproj|C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\assets\\scripts\\scripts\\youlose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5433A0D-B6B0-F882-4C15-E09E0D88BEE1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts\\youlose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\Assets\\Scripts\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\Assets\\Scripts\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:14:46.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AISpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\Assets\\Scripts\\Scripts\\AISpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scripts\\AISpawner.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\Assets\\Scripts\\Scripts\\AISpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scripts\\AISpawner.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAQwGYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:14:46.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YouLose.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\Assets\\Scripts\\Scripts\\YouLose.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scripts\\YouLose.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\Assets\\Scripts\\Scripts\\YouLose.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scripts\\YouLose.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:14:46.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\Assets\\Scripts\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\Assets\\Scripts\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:14:46.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AINavigator.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\Assets\\Scripts\\Scripts\\AINavigator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scripts\\AINavigator.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\Assets\\Scripts\\Scripts\\AINavigator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scripts\\AINavigator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:14:46.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\UNITYgames\\GAMES\\3DAudio\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:21:39.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
